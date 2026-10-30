@@ -1,0 +1,35 @@
+ROHIT MENON
+Backend Engineer | 6 Years Experience
+
+PROFESSIONAL SUMMARY
+Backend specialist with 6 years in Python and FastAPI, experienced in REST API design and database optimization. Certified AWS Solutions Architect.
+
+TECHNICAL SKILLS
+Python - 6 years of backend development
+FastAPI - 5 years building production APIs with FastAPI
+PostgreSQL - 5 years of database management and optimization
+REST API - 6 years designing RESTful APIs
+Docker - 3 years containerizing applications with Docker
+
+CERTIFICATIONS
+AWS Certified Solutions Architect, issued by Amazon (2024)
+
+WORK EXPERIENCE
+
+Backend Engineer | DataDriven Corp | 2021 - Present
+- Architected microservices using FastAPI and Python
+- Designed and optimized PostgreSQL databases for high-throughput applications
+- Built Docker containers for consistent deployment environments
+- Developed REST API services for mobile and web clients
+
+Junior Backend Engineer | CodeBase Inc | 2020 - 2021
+- Developed Python REST API endpoints using FastAPI
+- Managed PostgreSQL database migrations and schema evolution
+
+PROJECTS
+
+API Gateway Service
+Built a centralized API Gateway Service using FastAPI with rate limiting, authentication, and request routing for 20+ microservices.
+
+EDUCATION
+M.Tech Software Engineering, BITS Pilani, 2020

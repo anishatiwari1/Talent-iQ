@@ -1,0 +1,33 @@
+ARJUN SHARMA
+Frontend Engineer | 5 Years Experience
+
+PROFESSIONAL SUMMARY
+Frontend developer with 5 years specializing in React, TypeScript, and responsive web design with modern JavaScript frameworks.
+
+TECHNICAL SKILLS
+React - 5 years building production React applications
+TypeScript - 5 years of TypeScript development
+JavaScript - 5 years of JavaScript development
+REST API - 3 years integrating with RESTful API services
+
+EXPERTISE
+Frontend Architecture - Deep expertise in frontend architecture and component design patterns
+
+WORK EXPERIENCE
+
+Frontend Engineer | WebUI Corp | 2022 - Present
+- Built complex React applications with TypeScript for enterprise clients
+- Designed component libraries using React and JavaScript
+- Integrated REST API endpoints for data-driven dashboards
+
+Junior Frontend Developer | PixelPerfect | 2021 - 2022
+- Developed responsive web interfaces using React and JavaScript
+- Implemented TypeScript for type-safe frontend applications
+
+PROJECTS
+
+E-Commerce Dashboard
+Built a comprehensive e-commerce dashboard using React, TypeScript, and JavaScript with REST API integration for real-time analytics.
+
+EDUCATION
+B.Tech Computer Science, IIIT Hyderabad, 2021

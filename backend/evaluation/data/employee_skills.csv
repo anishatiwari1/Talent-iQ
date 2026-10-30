@@ -1,0 +1,119 @@
+eval_employee_id,skill_name,proficiency_level,years_of_experience
+E001,Python,5,8
+E001,React,4,6
+E001,PostgreSQL,4,7
+E001,FastAPI,4,5
+E001,REST API,4,6
+E001,System Design,3,4
+E002,Python,4,6
+E002,FastAPI,5,5
+E002,PostgreSQL,4,5
+E002,REST API,5,6
+E002,Docker,3,3
+E003,Python,5,5
+E003,Machine Learning,4,5
+E003,Data Engineering,4,4
+E003,PostgreSQL,3,3
+E003,Structured Query Language,4,5
+E004,Docker,5,7
+E004,Kubernetes,5,6
+E004,CI/CD,5,7
+E004,Amazon Web Services,4,6
+E004,Python,3,3
+E005,Figma,5,4
+E005,React,3,2
+E005,System Design,3,3
+E006,React,5,5
+E006,TypeScript,5,5
+E006,JavaScript,5,5
+E006,REST API,3,3
+E007,Python,5,6
+E007,Machine Learning,5,6
+E007,Data Engineering,4,5
+E007,Artificial Intelligence,4,4
+E008,Python,5,10
+E008,System Design,5,8
+E008,React,4,6
+E008,Amazon Web Services,4,7
+E008,PostgreSQL,4,8
+E008,FastAPI,3,4
+E009,JavaScript,4,3
+E009,React,4,3
+E009,Node.js,4,3
+E010,Docker,4,5
+E010,CI/CD,4,5
+E010,Amazon Web Services,4,4
+E010,Kubernetes,3,3
+E011,Python,4,4
+E011,Machine Learning,4,4
+E011,Structured Query Language,4,4
+E011,PostgreSQL,3,3
+E012,Python,5,9
+E012,System Design,5,7
+E012,PostgreSQL,4,6
+E012,FastAPI,4,5
+E012,REST API,4,6
+E013,Project Management,5,6
+E013,System Design,3,4
+E014,FastAPI,4,4
+E014,Node.js,4,3
+E014,PostgreSQL,4,4
+E014,Python,3,3
+E014,REST API,3,3
+E015,CI/CD,3,3
+E015,Python,3,3
+E015,Docker,2,2
+E016,JavaScript,5,5
+E016,TypeScript,4,5
+E016,React,5,5
+E017,Python,4,5
+E017,Structured Query Language,5,5
+E017,Data Engineering,5,5
+E017,PostgreSQL,4,4
+E018,Python,5,7
+E018,REST API,5,7
+E018,PostgreSQL,5,6
+E018,FastAPI,4,5
+E019,Figma,4,3
+E019,System Design,2,2
+E020,Kubernetes,5,6
+E020,Docker,5,6
+E020,Amazon Web Services,5,6
+E020,CI/CD,4,5
+E021,React,4,4
+E021,JavaScript,4,4
+E021,TypeScript,3,3
+E022,Python,4,5
+E022,FastAPI,4,4
+E022,React,4,4
+E022,PostgreSQL,3,3
+E023,Python,5,7
+E023,Machine Learning,5,7
+E023,Artificial Intelligence,5,6
+E023,Data Engineering,3,3
+E024,Python,5,11
+E024,System Design,5,9
+E024,Amazon Web Services,4,7
+E024,Project Management,4,6
+E025,Project Management,4,4
+E025,System Design,2,2
+E026,Node.js,4,3
+E026,REST API,3,3
+E026,MongoDB,4,3
+E026,JavaScript,3,2
+E027,Python,5,6
+E027,Machine Learning,5,6
+E027,Data Engineering,5,6
+E027,Structured Query Language,4,5
+E028,JavaScript,5,4
+E028,React,5,4
+E028,TypeScript,4,4
+E028,System Design,2,2
+E029,Docker,4,4
+E029,CI/CD,4,4
+E029,Amazon Web Services,3,3
+E030,Python,5,8
+E030,React,4,6
+E030,FastAPI,5,7
+E030,PostgreSQL,5,8
+E030,System Design,4,6

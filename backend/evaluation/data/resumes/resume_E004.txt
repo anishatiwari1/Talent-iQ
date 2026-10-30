@@ -1,0 +1,34 @@
+VIKRAM JOSHI
+DevOps Engineer | 7 Years Experience
+
+PROFESSIONAL SUMMARY
+DevOps lead with 7 years managing Docker, Kubernetes, and CI/CD pipelines on AWS infrastructure. Certified Kubernetes Administrator.
+
+TECHNICAL SKILLS
+Docker - 7 years of container orchestration and Docker deployments
+Kubernetes - 6 years managing production Kubernetes clusters
+CI/CD - 7 years building continuous integration and deployment pipelines
+Amazon Web Services - 6 years of AWS cloud infrastructure management
+Python - 3 years scripting for automation
+
+CERTIFICATIONS
+Certified Kubernetes Administrator, issued by CNCF (2023)
+
+WORK EXPERIENCE
+
+Senior DevOps Engineer | CloudFirst | 2021 - Present
+- Managed Kubernetes clusters across multiple AWS regions
+- Built CI/CD pipelines using Jenkins and GitHub Actions
+- Containerized 50+ services using Docker
+
+DevOps Engineer | InfraScale | 2019 - 2021
+- Deployed Docker containers in production environments
+- Configured Amazon Web Services infrastructure for high availability
+
+PROJECTS
+
+Cloud Migration Platform
+Led the cloud migration platform initiative, migrating 30+ services from on-premise to AWS using Docker and Kubernetes orchestration with automated CI/CD pipelines.
+
+EDUCATION
+B.E. Computer Science, NIT Trichy, 2019

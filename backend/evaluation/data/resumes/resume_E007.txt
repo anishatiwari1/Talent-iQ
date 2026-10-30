@@ -1,0 +1,33 @@
+DIVYA RAO
+ML Engineer | 6 Years Experience
+
+PROFESSIONAL SUMMARY
+Machine learning engineer with 6 years building production ML models, proficient in Python and data pipelines. Deep expertise in deep learning and AI systems.
+
+TECHNICAL SKILLS
+Python - 6 years of Python development for ML
+Machine Learning - 6 years building and training ML models
+Data Engineering - 5 years of data engineering for ML pipelines
+Artificial Intelligence - 4 years developing AI applications
+
+EXPERTISE
+Deep Learning - Extensive expertise in deep learning architectures and neural networks
+
+WORK EXPERIENCE
+
+Machine Learning Engineer | AILab Solutions | 2022 - Present
+- Developed recommendation engines using Artificial Intelligence and Python
+- Built scalable Data Engineering pipelines for model training
+- Deployed Machine Learning models to production environments
+
+Data Scientist | DataMinds | 2020 - 2022
+- Created predictive models using Python and Machine Learning libraries
+- Implemented Data Engineering workflows for data processing
+
+PROJECTS
+
+Recommendation Engine
+Built a real-time recommendation engine using Machine Learning and Artificial Intelligence, backed by robust Data Engineering pipelines in Python.
+
+EDUCATION
+M.Tech Computer Science, IIT Bombay, 2020

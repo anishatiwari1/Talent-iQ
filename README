@@ -1,0 +1,19 @@
+# TalentIQ
+
+TalentIQ is a full-stack project organized into separate frontend, backend, and documentation areas.
+
+## Project structure
+
+- `frontend/` – client application
+- `backend/` – server-side API and services
+- `docs/` – project documentation and design notes
+
+## Getting started
+
+1. Open the relevant application folder.
+2. Install dependencies for the frontend and backend separately.
+3. Run the development environment for each service.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.

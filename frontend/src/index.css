@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'DM Sans', 'Avenir Next', sans-serif;
+  }
+  
+  body {
+    background-color: #F3F5EF;
+    color: #10221E;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    selection-background-color: #A8D85A;
+    selection-color: #063C32;
+  }
+
+  ::selection {
+    background-color: #A8D85A;
+    color: #063C32;
+  }
+}
+
+@layer components {
+  .nav-link {
+    @apply cursor-pointer text-sm font-semibold text-[#687A73] transition-colors hover:text-[#10221E];
+  }
+}
+
+.hero-grid {
+  background-image: linear-gradient(rgba(220, 229, 223, 0.42) 1px, transparent 1px), linear-gradient(90deg, rgba(220, 229, 223, 0.42) 1px, transparent 1px);
+  background-size: 64px 64px;
+  mask-image: linear-gradient(to bottom, black, transparent 72%);
+}
+
+/* Polished enterprise scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F3F5EF;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #CBD5CD;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9BB0A6;
+}
+
+/* Subtle node connection lines styling */
+.graph-grid {
+  background-size: 32px 32px;
+  background-image: 
+    radial-gradient(circle, #DCE5DF 1.2px, transparent 1.2px);
+}

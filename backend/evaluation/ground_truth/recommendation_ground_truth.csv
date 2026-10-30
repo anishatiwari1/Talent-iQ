@@ -1,0 +1,141 @@
+eval_project_id,eval_employee_id,relevance,justification
+P001,E001,3,Has React(4) FastAPI(4) PostgreSQL(4) REST API(4) - all key skills at high proficiency
+P001,E002,2,Has FastAPI(5) PostgreSQL(4) REST API(5) but lacks React
+P001,E006,3,Has React(5) TypeScript(5) JavaScript(5) - strong frontend match
+P001,E008,2,Has React(4) PostgreSQL(4) Python(5) but FastAPI(3)
+P001,E009,1,Has React(4) JavaScript(4) but lacks FastAPI and PostgreSQL
+P001,E012,1,Has FastAPI(4) PostgreSQL(4) but lacks React
+P001,E014,1,Has FastAPI(4) PostgreSQL(4) but lacks React
+P001,E016,2,Has React(5) TypeScript(4) JavaScript(5) - strong frontend
+P001,E021,1,Has React(4) JavaScript(4) but lacks backend skills
+P001,E022,2,Has React(4) FastAPI(4) PostgreSQL(3) - balanced match
+P001,E028,1,Has React(5) TypeScript(4) but lacks backend skills
+P001,E030,3,Has React(4) FastAPI(5) PostgreSQL(5) REST API - excellent match
+P001,E005,0,Designer with Figma - not a development match
+P001,E003,0,Data scientist - wrong specialty
+P001,E004,0,DevOps engineer - wrong specialty
+P002,E003,3,Has Python(5) ML(4) Data Engineering(4) PostgreSQL(3) - excellent fit
+P002,E007,3,Has Python(5) ML(5) Data Engineering(4) AI(4) - excellent fit
+P002,E011,2,Has Python(4) ML(4) PostgreSQL(3) - good fit but less Data Engineering
+P002,E023,3,Has Python(5) ML(5) AI(5) Data Engineering(3) - top ML candidate
+P002,E027,3,Has Python(5) ML(5) Data Engineering(5) SQL(4) - excellent fit
+P002,E017,2,Has Python(4) Data Engineering(5) SQL(5) but less ML focus
+P002,E008,1,Has Python(5) PostgreSQL(4) but lacks ML skills
+P002,E012,1,Has Python(5) PostgreSQL(4) but lacks ML
+P002,E001,0,Full-stack engineer - no ML skills
+P002,E004,0,DevOps engineer - no ML skills
+P003,E004,3,Has Docker(5) Kubernetes(5) CI/CD(5) AWS(4) - perfect DevOps fit
+P003,E010,3,Has Docker(4) CI/CD(4) AWS(4) Kubernetes(3) - strong DevOps fit
+P003,E020,3,Has Kubernetes(5) Docker(5) AWS(5) CI/CD(4) - excellent fit
+P003,E029,2,Has Docker(4) CI/CD(4) AWS(3) - good but lower proficiency
+P003,E015,1,Has CI/CD(3) Docker(2) Python(3) - partial match
+P003,E008,1,Has AWS(4) but lacks core DevOps skills
+P003,E001,0,Full-stack engineer - no DevOps skills
+P003,E003,0,Data scientist - wrong specialty
+P004,E005,3,Has Figma(5) React(3) System Design(3) - perfect designer fit
+P004,E019,2,Has Figma(4) System Design(2) - good designer but less experience
+P004,E006,2,Has React(5) but limited Figma; strong frontend for implementation
+P004,E021,1,Has React(4) but no Figma or System Design
+P004,E009,1,Has React(4) JavaScript(4) - implementation support
+P004,E016,1,Has React(5) TypeScript(4) but lacks design skills
+P004,E003,0,Data scientist - wrong specialty
+P004,E004,0,DevOps engineer - wrong specialty
+P005,E001,2,Has Python(5) PostgreSQL(4) REST API(4) - good backend fit
+P005,E002,2,Has Python(4) PostgreSQL(4) REST API(5) - good backend fit
+P005,E012,2,Has Python(5) PostgreSQL(4) REST API(4) - good match
+P005,E018,3,Has Python(5) PostgreSQL(5) REST API(5) - excellent backend
+P005,E022,2,Has Python(4) PostgreSQL(3) - decent fit
+P005,E030,2,Has Python(5) PostgreSQL(5) - strong backend
+P005,E014,1,Has PostgreSQL(4) Python(3) REST API(3)
+P005,E017,2,Has Python(4) PostgreSQL(4) SQL(5) - good data focus
+P005,E004,0,DevOps focus - wrong specialty
+P005,E005,0,Designer - wrong specialty
+P006,E012,3,Has Python(5) FastAPI(4) REST API(4) System Design(5) - perfect fit
+P006,E002,3,Has Python(4) FastAPI(5) REST API(5) - excellent API specialist
+P006,E018,3,Has Python(5) FastAPI(4) REST API(5) - excellent backend
+P006,E030,3,Has Python(5) FastAPI(5) REST API - strong match with system design
+P006,E001,2,Has Python(5) FastAPI(4) REST API(4) - good but less system design
+P006,E008,2,Has Python(5) System Design(5) but FastAPI(3)
+P006,E014,1,Has FastAPI(4) REST API(3) but lower Python proficiency
+P006,E022,1,Has Python(4) FastAPI(4) but lacks system design
+P006,E004,0,DevOps focus - no API design skills
+P006,E005,0,Designer - wrong specialty
+P007,E007,3,Has Python(5) ML(5) AI(4) Data Engineering(4) - ideal candidate
+P007,E023,3,Has Python(5) ML(5) AI(5) Data Engineering(3) - top ML/AI
+P007,E003,3,Has Python(5) ML(4) Data Engineering(4) - strong ML candidate
+P007,E027,2,Has Python(5) ML(5) Data Engineering(5) but less AI focus
+P007,E011,2,Has Python(4) ML(4) - decent ML but lacks AI
+P007,E017,1,Has Python(4) Data Engineering(5) but less ML
+P007,E008,1,Has Python(5) but lacks ML/AI skills
+P007,E001,0,Full-stack - no ML/AI skills
+P007,E004,0,DevOps - no ML/AI skills
+P008,E020,3,Has AWS(5) Kubernetes(5) Docker(5) CI/CD(4) - perfect cloud migration
+P008,E004,3,Has Docker(5) Kubernetes(5) CI/CD(5) AWS(4) - excellent DevOps
+P008,E010,2,Has Docker(4) AWS(4) Kubernetes(3) CI/CD(4) - good fit
+P008,E029,1,Has Docker(4) CI/CD(4) AWS(3) - partial match
+P008,E015,1,Has CI/CD(3) Docker(2) - limited match
+P008,E008,1,Has AWS(4) but lacks container skills
+P008,E001,0,Full-stack - no cloud/DevOps skills
+P008,E003,0,Data scientist - wrong specialty
+P009,E005,3,Has Figma(5) System Design(3) React(3) - ideal designer
+P009,E019,2,Has Figma(4) System Design(2) - good designer
+P009,E006,1,Has React(5) but not a primary designer
+P009,E021,1,Has React(4) - implementation support only
+P009,E008,1,Has System Design(5) but lacks Figma
+P009,E001,0,Full-stack - not a designer
+P009,E003,0,Data scientist - wrong specialty
+P010,E017,3,Has Python(4) Data Engineering(5) SQL(5) PostgreSQL(4) - perfect data fit
+P010,E027,3,Has Python(5) Data Engineering(5) SQL(4) - excellent data engineer
+P010,E003,2,Has Python(5) Data Engineering(4) PostgreSQL(3) - good ML/data
+P010,E007,2,Has Python(5) Data Engineering(4) - ML engineer with data skills
+P010,E011,2,Has Python(4) ML(4) SQL(4) PostgreSQL(3) - decent fit
+P010,E023,1,Has Python(5) ML(5) Data Engineering(3) - less data engineering focus
+P010,E001,0,Full-stack - not a data engineer
+P010,E004,0,DevOps - wrong specialty
+P011,E012,3,Has Python(5) System Design(5) FastAPI(4) REST API(4) - excellent arch
+P011,E008,3,Has Python(5) System Design(5) PostgreSQL(4) - excellent architect
+P011,E030,3,Has Python(5) FastAPI(5) System Design(4) - strong full-stack
+P011,E001,2,Has Python(5) FastAPI(4) REST API(4) - good but less system design
+P011,E002,2,Has Python(4) FastAPI(5) REST API(5) Docker(3) - good backend
+P011,E024,2,Has Python(5) System Design(5) - strong architect but less Docker
+P011,E018,2,Has Python(5) REST API(5) FastAPI(4) - strong backend
+P011,E022,1,Has Python(4) FastAPI(4) - decent but lower proficiency
+P011,E004,1,Has Docker(5) but less Python/system design focus
+P011,E005,0,Designer - wrong specialty
+P012,E004,2,Has CI/CD(5) Docker(5) Python(3) - strong CI/CD but less Python
+P012,E010,2,Has CI/CD(4) Docker(4) AWS(4) - good DevOps match
+P012,E015,2,Has CI/CD(3) Python(3) Docker(2) - QA engineer good for testing
+P012,E029,2,Has CI/CD(4) Docker(4) - decent DevOps match
+P012,E020,2,Has CI/CD(4) Docker(5) - strong DevOps
+P012,E002,1,Has Python(4) Docker(3) - backend with some CI/CD
+P012,E001,0,Full-stack - no CI/CD focus
+P012,E003,0,Data scientist - wrong specialty
+P013,E006,3,Has React(5) TypeScript(5) JavaScript(5) - perfect frontend
+P013,E016,3,Has React(5) TypeScript(4) JavaScript(5) - excellent frontend
+P013,E028,3,Has React(5) TypeScript(4) JavaScript(5) - strong frontend
+P013,E021,2,Has React(4) TypeScript(3) JavaScript(4) - good frontend
+P013,E009,2,Has React(4) JavaScript(4) Node.js(4) - decent match
+P013,E001,1,Has React(4) but TypeScript not primary
+P013,E022,1,Has React(4) but less TypeScript focus
+P013,E005,1,Has React(3) - limited frontend for this
+P013,E003,0,Data scientist - wrong specialty
+P013,E004,0,DevOps - wrong specialty
+P014,E023,3,Has Python(5) ML(5) AI(5) Docker from data work - top ML/Ops
+P014,E007,3,Has Python(5) ML(5) AI(4) Data Engineering(4) - strong ML
+P014,E003,2,Has Python(5) ML(4) Data Engineering(4) - good ML
+P014,E027,2,Has Python(5) ML(5) Data Engineering(5) - excellent but less cloud
+P014,E011,1,Has Python(4) ML(4) - decent ML but less cloud
+P014,E004,1,Has AWS(4) Docker(5) CI/CD(5) but no ML
+P014,E010,1,Has AWS(4) Docker(4) CI/CD(4) but no ML
+P014,E001,0,Full-stack - no ML or cloud-ops skills
+P014,E005,0,Designer - wrong specialty
+P015,E018,3,Has Python(5) PostgreSQL(5) FastAPI(4) REST API(5) - perfect backend optimizer
+P015,E012,3,Has Python(5) PostgreSQL(4) FastAPI(4) REST API(4) - excellent
+P015,E030,3,Has Python(5) PostgreSQL(5) FastAPI(5) - top backend performer
+P015,E002,2,Has Python(4) PostgreSQL(4) FastAPI(5) REST API(5) - strong API
+P015,E001,2,Has Python(5) PostgreSQL(4) FastAPI(4) REST API(4)
+P015,E008,2,Has Python(5) PostgreSQL(4) System Design(5) - good architect
+P015,E022,1,Has Python(4) PostgreSQL(3) FastAPI(4)
+P015,E014,1,Has PostgreSQL(4) FastAPI(4) Python(3)
+P015,E004,0,DevOps - wrong specialty
+P015,E005,0,Designer - wrong specialty

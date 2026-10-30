@@ -1,0 +1,33 @@
+PRIYA NAIR
+Data Scientist | 5 Years Experience
+
+PROFESSIONAL SUMMARY
+Data scientist skilled in Python, Machine Learning, and Data Engineering with 5 years of hands-on experience building production ML models.
+
+TECHNICAL SKILLS
+Python - 5 years of data science and ML development
+Machine Learning - 5 years building predictive models
+Data Engineering - 4 years designing ETL data pipelines
+PostgreSQL - 3 years for data storage and analytics queries
+
+EXPERTISE
+Data Science - Extensive expertise in data science methodologies and statistical analysis
+
+WORK EXPERIENCE
+
+Data Scientist | AnalyticsPro | 2022 - Present
+- Built machine learning models for customer churn prediction using Python
+- Designed data engineering pipelines processing 10TB+ daily
+- Optimized PostgreSQL queries for analytics dashboards
+
+Junior Data Scientist | InsightLab | 2021 - 2022
+- Developed Python scripts for data preprocessing and feature engineering
+- Applied machine learning algorithms for classification and regression tasks
+
+PROJECTS
+
+Churn Prediction System
+Built a complete churn prediction system using Python and machine learning models with data engineering pipelines for real-time scoring.
+
+EDUCATION
+M.Sc Data Science, IISc Bangalore, 2021

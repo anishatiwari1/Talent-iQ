@@ -1,0 +1,30 @@
+SAMEER REDDY
+DevOps Engineer | 5 Years Experience
+
+PROFESSIONAL SUMMARY
+DevOps engineer with 5 years in container orchestration, CI/CD, and AWS cloud services. Focused on infrastructure automation and deployment pipelines.
+
+TECHNICAL SKILLS
+Docker - 5 years of containerizing applications
+CI/CD - 5 years designing automated deployment pipelines
+Amazon Web Services - 4 years managing cloud infrastructure
+Kubernetes - 3 years of cluster administration
+
+WORK EXPERIENCE
+
+DevOps Engineer | CloudOps Inc | 2021 - Present
+- Implemented CI/CD pipelines for automated testing and deployment
+- Managed containerized workloads using Docker and Kubernetes
+- Provisioned and maintained Amazon Web Services infrastructure
+
+Systems Administrator | IT Solutions | 2019 - 2021
+- Supported legacy infrastructure and began Docker migrations
+- Automated deployment tasks using CI/CD methodologies
+
+PROJECTS
+
+Deployment Pipeline
+Built a fully automated Deployment Pipeline integrating Docker, Kubernetes, and Amazon Web Services for seamless CI/CD workflows.
+
+EDUCATION
+B.E. Information Technology, Osmania University, 2019

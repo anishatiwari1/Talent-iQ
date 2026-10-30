@@ -1,0 +1,38 @@
+KARAN GUPTA
+Tech Lead | 10 Years Experience
+
+PROFESSIONAL SUMMARY
+Tech lead with 10 years across full-stack development, system design, and cloud architecture. Strong background in Python and distributed systems.
+
+TECHNICAL SKILLS
+Python - 10 years of software development
+System Design - 8 years of distributed system design
+React - 6 years of frontend development
+Amazon Web Services - 7 years designing cloud infrastructure
+PostgreSQL - 8 years of database architecture
+
+CERTIFICATIONS
+AWS Certified Solutions Architect, issued by Amazon (2022)
+
+EXPERTISE
+Cloud Architecture - Deep expertise in scalable cloud architecture and microservices
+
+WORK EXPERIENCE
+
+Tech Lead | EnterpriseTech | 2019 - Present
+- Led system design for scalable enterprise platforms
+- Architected solutions on Amazon Web Services using Python
+- Mentored teams on React and PostgreSQL best practices
+
+Senior Software Engineer | ScaleSystems | 2014 - 2019
+- Built complex backends using Python and PostgreSQL
+- Designed user interfaces with React
+- Implemented System Design patterns for high availability
+
+PROJECTS
+
+Enterprise Platform
+Led the architecture and development of an Enterprise Platform using Python, React, and PostgreSQL, deployed on Amazon Web Services with highly available System Design.
+
+EDUCATION
+B.E. Computer Engineering, Delhi Technological University, 2014

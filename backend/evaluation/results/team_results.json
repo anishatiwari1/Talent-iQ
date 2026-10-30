@@ -1,0 +1,120 @@
+{
+  "summary": {
+    "average_skill_coverage": 100.0,
+    "minimum_skill_coverage": 100.0,
+    "maximum_skill_coverage": 100.0,
+    "average_remaining_gaps": 0.0,
+    "performance": {
+      "avg_time_s": 2.610314226150513,
+      "min_time_s": 2.4344770908355713,
+      "max_time_s": 2.759307622909546
+    }
+  },
+  "details": [
+    {
+      "project": "P001",
+      "team_size": 5,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P002",
+      "team_size": 4,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P003",
+      "team_size": 4,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P004",
+      "team_size": 3,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P005",
+      "team_size": 3,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P006",
+      "team_size": 4,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P007",
+      "team_size": 5,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P008",
+      "team_size": 4,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P009",
+      "team_size": 3,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P010",
+      "team_size": 4,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P011",
+      "team_size": 5,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P012",
+      "team_size": 3,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P013",
+      "team_size": 4,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P014",
+      "team_size": 4,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    },
+    {
+      "project": "P015",
+      "team_size": 3,
+      "coverage_percentage": 100.0,
+      "remaining_gaps": 0,
+      "gap_skills": []
+    }
+  ]
+}

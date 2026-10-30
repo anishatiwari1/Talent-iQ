@@ -1,0 +1,59 @@
+eval_employee_id,resume_file,skill_name,years_of_experience,proficiency,certification_name,certification_issuer,expertise_area,project_name
+E001,resume_E001.txt,Python,8,,,,,
+E001,resume_E001.txt,React,6,,,,,
+E001,resume_E001.txt,PostgreSQL,7,,,,,
+E001,resume_E001.txt,FastAPI,5,,,,,
+E001,resume_E001.txt,REST API,6,,,,,
+E001,resume_E001.txt,,,,,,System Design,
+E001,resume_E001.txt,,,,,,,Customer Portal
+E002,resume_E002.txt,Python,6,,,,,
+E002,resume_E002.txt,FastAPI,5,,,,,
+E002,resume_E002.txt,PostgreSQL,5,,,,,
+E002,resume_E002.txt,REST API,6,,,,,
+E002,resume_E002.txt,Docker,3,,,,,
+E002,resume_E002.txt,,,,AWS Certified Solutions Architect,Amazon,,,
+E002,resume_E002.txt,,,,,,,API Gateway Service
+E003,resume_E003.txt,Python,5,,,,,
+E003,resume_E003.txt,Machine Learning,5,,,,,
+E003,resume_E003.txt,Data Engineering,4,,,,,
+E003,resume_E003.txt,PostgreSQL,3,,,,,
+E003,resume_E003.txt,,,,,,Data Science,
+E003,resume_E003.txt,,,,,,,Churn Prediction System
+E004,resume_E004.txt,Docker,7,,,,,
+E004,resume_E004.txt,Kubernetes,6,,,,,
+E004,resume_E004.txt,CI/CD,7,,,,,
+E004,resume_E004.txt,Amazon Web Services,6,,,,,
+E004,resume_E004.txt,,,,Certified Kubernetes Administrator,CNCF,,,
+E004,resume_E004.txt,,,,,,,Cloud Migration Platform
+E005,resume_E005.txt,Figma,4,,,,,
+E005,resume_E005.txt,React,2,,,,,
+E005,resume_E005.txt,,,,,,User Experience Design,
+E005,resume_E005.txt,,,,,,,Mobile App Redesign
+E006,resume_E006.txt,React,5,,,,,
+E006,resume_E006.txt,TypeScript,5,,,,,
+E006,resume_E006.txt,JavaScript,5,,,,,
+E006,resume_E006.txt,,,,,,Frontend Architecture,
+E006,resume_E006.txt,,,,,,,E-Commerce Dashboard
+E007,resume_E007.txt,Python,6,,,,,
+E007,resume_E007.txt,Machine Learning,6,,,,,
+E007,resume_E007.txt,Data Engineering,5,,,,,
+E007,resume_E007.txt,Artificial Intelligence,4,,,,,
+E007,resume_E007.txt,,,,,,Deep Learning,
+E007,resume_E007.txt,,,,,,,Recommendation Engine
+E008,resume_E008.txt,Python,10,,,,,
+E008,resume_E008.txt,System Design,8,,,,,
+E008,resume_E008.txt,React,6,,,,,
+E008,resume_E008.txt,Amazon Web Services,7,,,,,
+E008,resume_E008.txt,PostgreSQL,8,,,,,
+E008,resume_E008.txt,,,,AWS Certified Solutions Architect,Amazon,,,
+E008,resume_E008.txt,,,,,,Cloud Architecture,
+E008,resume_E008.txt,,,,,,,Enterprise Platform
+E009,resume_E009.txt,JavaScript,3,,,,,
+E009,resume_E009.txt,React,3,,,,,
+E009,resume_E009.txt,Node.js,3,,,,,
+E009,resume_E009.txt,,,,,,,Interactive Web App
+E010,resume_E010.txt,Docker,5,,,,,
+E010,resume_E010.txt,CI/CD,5,,,,,
+E010,resume_E010.txt,Amazon Web Services,4,,,,,
+E010,resume_E010.txt,Kubernetes,3,,,,,
+E010,resume_E010.txt,,,,,,,Deployment Pipeline

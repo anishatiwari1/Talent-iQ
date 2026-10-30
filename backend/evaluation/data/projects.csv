@@ -1,0 +1,16 @@
+eval_project_id,name,department,description,priority,start_date,end_date,required_team_size
+P001,Customer Portal Revamp,Product,Rebuild the customer self-service portal with a modern React frontend and FastAPI backend.,HIGH,2026-10-15,2027-03-15,5
+P002,Churn Prediction Model,Data & AI,Build a machine learning model to predict customer churn from usage data.,HIGH,2026-11-01,2027-04-01,4
+P003,Internal DevOps Platform,DevOps,Standardize CI/CD and container orchestration across engineering teams.,MEDIUM,2026-10-20,2027-02-20,4
+P004,Mobile Checkout Redesign,Product,Redesign the mobile checkout flow to reduce cart abandonment.,MEDIUM,2026-11-15,2027-03-15,3
+P005,Workforce Analytics Dashboard,Data & AI,Internal dashboard surfacing workforce utilization and skill gap metrics.,LOW,2026-12-01,2027-05-01,3
+P006,API Gateway Modernization,Engineering,Migrate legacy REST APIs to a new FastAPI-based gateway with rate limiting and auth.,HIGH,2026-10-20,2027-03-20,4
+P007,Real-Time Recommendation Engine,Data & AI,Build a real-time recommendation engine using ML models and FAISS similarity search.,HIGH,2026-11-01,2027-04-30,5
+P008,Cloud Infrastructure Migration,DevOps,Migrate on-premise services to AWS with Kubernetes orchestration.,HIGH,2026-10-15,2027-04-15,4
+P009,Design System v2,Design,Create a unified design system for all customer-facing products.,MEDIUM,2026-11-15,2027-03-15,3
+P010,Data Lake Implementation,Data & AI,Build a centralized data lake with ETL pipelines for analytics.,MEDIUM,2026-12-01,2027-06-01,4
+P011,Microservices Refactoring,Engineering,Break down the monolithic backend into microservices with Docker containers.,HIGH,2026-10-20,2027-04-20,5
+P012,Automated Testing Framework,Engineering,Build a comprehensive automated testing framework with CI/CD integration.,MEDIUM,2026-11-01,2027-03-01,3
+P013,Client Dashboard Frontend,Product,Build a new React-based analytics dashboard for enterprise clients.,MEDIUM,2026-11-15,2027-04-15,4
+P014,ML Ops Pipeline,Data & AI,Establish ML model training and deployment pipeline on cloud infrastructure.,HIGH,2026-10-15,2027-04-15,4
+P015,Backend Performance Optimization,Engineering,Optimize database queries and API response times across the platform.,MEDIUM,2026-11-01,2027-02-28,3

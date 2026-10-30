@@ -1,0 +1,197 @@
+{
+  "summary": {
+    "precision": 0.9069767441860465,
+    "recall": 1.0,
+    "f1": 0.951219512195122,
+    "total_processed": 10,
+    "performance": {
+      "avg_time_s": 76.79978439807891,
+      "min_time_s": 39.72194314002991,
+      "max_time_s": 123.66107392311096
+    }
+  },
+  "details": [
+    {
+      "eval_employee_id": "E001",
+      "expected": [
+        "react",
+        "postgresql",
+        "rest api",
+        "fastapi",
+        "python"
+      ],
+      "extracted": [
+        "react",
+        "postgresql",
+        "system design",
+        "rest api",
+        "fastapi",
+        "python"
+      ],
+      "tp": 5,
+      "fp": 1,
+      "fn": 0
+    },
+    {
+      "eval_employee_id": "E002",
+      "expected": [
+        "docker",
+        "postgresql",
+        "rest api",
+        "fastapi",
+        "python"
+      ],
+      "extracted": [
+        "docker",
+        "postgresql",
+        "rest api",
+        "fastapi",
+        "amazon web services",
+        "python"
+      ],
+      "tp": 5,
+      "fp": 1,
+      "fn": 0
+    },
+    {
+      "eval_employee_id": "E003",
+      "expected": [
+        "machine learning",
+        "postgresql",
+        "data engineering",
+        "python"
+      ],
+      "extracted": [
+        "postgresql",
+        "machine learning",
+        "data engineering",
+        "python"
+      ],
+      "tp": 4,
+      "fp": 0,
+      "fn": 0
+    },
+    {
+      "eval_employee_id": "E004",
+      "expected": [
+        "kubernetes",
+        "docker",
+        "amazon web services",
+        "ci/cd"
+      ],
+      "extracted": [
+        "docker",
+        "ci/cd",
+        "amazon web services",
+        "kubernetes",
+        "python"
+      ],
+      "tp": 4,
+      "fp": 1,
+      "fn": 0
+    },
+    {
+      "eval_employee_id": "E005",
+      "expected": [
+        "react",
+        "figma"
+      ],
+      "extracted": [
+        "figma",
+        "react"
+      ],
+      "tp": 2,
+      "fp": 0,
+      "fn": 0
+    },
+    {
+      "eval_employee_id": "E006",
+      "expected": [
+        "javascript",
+        "react",
+        "typescript"
+      ],
+      "extracted": [
+        "javascript",
+        "rest api",
+        "react",
+        "typescript"
+      ],
+      "tp": 3,
+      "fp": 1,
+      "fn": 0
+    },
+    {
+      "eval_employee_id": "E007",
+      "expected": [
+        "machine learning",
+        "artificial intelligence",
+        "data engineering",
+        "python"
+      ],
+      "extracted": [
+        "machine learning",
+        "data engineering",
+        "artificial intelligence",
+        "python"
+      ],
+      "tp": 4,
+      "fp": 0,
+      "fn": 0
+    },
+    {
+      "eval_employee_id": "E008",
+      "expected": [
+        "react",
+        "postgresql",
+        "system design",
+        "amazon web services",
+        "python"
+      ],
+      "extracted": [
+        "react",
+        "postgresql",
+        "system design",
+        "amazon web services",
+        "python"
+      ],
+      "tp": 5,
+      "fp": 0,
+      "fn": 0
+    },
+    {
+      "eval_employee_id": "E009",
+      "expected": [
+        "javascript",
+        "node.js",
+        "react"
+      ],
+      "extracted": [
+        "javascript",
+        "node.js",
+        "react"
+      ],
+      "tp": 3,
+      "fp": 0,
+      "fn": 0
+    },
+    {
+      "eval_employee_id": "E010",
+      "expected": [
+        "kubernetes",
+        "docker",
+        "amazon web services",
+        "ci/cd"
+      ],
+      "extracted": [
+        "kubernetes",
+        "docker",
+        "amazon web services",
+        "ci/cd"
+      ],
+      "tp": 4,
+      "fp": 0,
+      "fn": 0
+    }
+  ]
+}

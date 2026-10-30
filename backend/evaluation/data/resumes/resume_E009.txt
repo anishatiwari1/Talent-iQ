@@ -1,0 +1,29 @@
+TARA VERMA
+Software Engineer | 3 Years Experience
+
+PROFESSIONAL SUMMARY
+Software engineer with 3 years of experience in JavaScript, React, and Node.js. Passionate about building interactive web applications.
+
+TECHNICAL SKILLS
+JavaScript - 3 years of frontend and backend development
+React - 3 years building user interfaces
+Node.js - 3 years developing server-side applications
+
+WORK EXPERIENCE
+
+Software Engineer | WebDev Co | 2023 - Present
+- Developed frontend features using React and JavaScript
+- Built backend APIs with Node.js
+- Collaborated with design teams to implement UI/UX improvements
+
+Junior Web Developer | StartUp Inc | 2022 - 2023
+- Maintained web applications using JavaScript and React
+- Assisted in Node.js server maintenance
+
+PROJECTS
+
+Interactive Web App
+Developed an Interactive Web App using React and Node.js with extensive JavaScript functionality for real-time collaboration.
+
+EDUCATION
+B.Sc Computer Science, Mumbai University, 2022

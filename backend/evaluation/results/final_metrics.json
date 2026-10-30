@@ -1,0 +1,46 @@
+{
+  "extraction": {
+    "precision": 0.9069767441860465,
+    "recall": 1.0,
+    "f1": 0.951219512195122,
+    "total_processed": 10,
+    "performance": {
+      "avg_time_s": 76.79978439807891,
+      "min_time_s": 39.72194314002991,
+      "max_time_s": 123.66107392311096
+    }
+  },
+  "recommendation": {
+    "production": {
+      "precision_at_5": 0.8800000000000001,
+      "recall_at_5": 0.6152645502645502,
+      "ndcg_at_5": 0.825694006525889
+    },
+    "ablation_structured_only": {
+      "precision_at_5": 0.8800000000000001,
+      "recall_at_5": 0.6152645502645502,
+      "ndcg_at_5": 0.8263629963127913
+    },
+    "performance": {
+      "avg_time_s": 5.31154777208964,
+      "min_time_s": 3.701871395111084,
+      "max_time_s": 8.481294631958008
+    }
+  },
+  "team_formation": {
+    "average_skill_coverage": 100.0,
+    "minimum_skill_coverage": 100.0,
+    "maximum_skill_coverage": 100.0,
+    "average_remaining_gaps": 0.0,
+    "performance": {
+      "avg_time_s": 2.610314226150513,
+      "min_time_s": 2.4344770908355713,
+      "max_time_s": 2.759307622909546
+    }
+  },
+  "performance": {
+    "average_resume_processing_time": 76.79978439807891,
+    "average_recommendation_time": 5.31154777208964,
+    "average_team_formation_time": 2.610314226150513
+  }
+}

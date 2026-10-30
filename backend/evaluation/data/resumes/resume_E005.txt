@@ -1,0 +1,31 @@
+MEERA KAPOOR
+Product Designer | 4 Years Experience
+
+PROFESSIONAL SUMMARY
+Product designer with 4 years creating user-centered interfaces using Figma and front-end prototyping with React.
+
+TECHNICAL SKILLS
+Figma - 4 years of UI/UX design using Figma
+React - 2 years building interactive prototypes with React
+
+EXPERTISE
+User Experience Design - Extensive expertise in user experience design principles and user research
+
+WORK EXPERIENCE
+
+Product Designer | DesignHub | 2023 - Present
+- Created comprehensive design systems using Figma
+- Built interactive prototypes in React for stakeholder review
+- Led user research sessions informing product decisions
+
+Junior Designer | CreativeStudio | 2022 - 2023
+- Designed mobile and web interfaces using Figma
+- Collaborated with frontend teams on React component specifications
+
+PROJECTS
+
+Mobile App Redesign
+Led the mobile app redesign project, creating a complete Figma prototype and React-based component library that improved user engagement by 35%.
+
+EDUCATION
+B.Des Interaction Design, NID Ahmedabad, 2022
